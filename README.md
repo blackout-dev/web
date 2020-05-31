@@ -1,6 +1,6 @@
 # web
 
-> BLACKOUT website
+> BLACKOUTS website
 
 ## Build Setup
 
