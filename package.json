@@ -5,7 +5,7 @@
 		"@nuxtjs/pwa": "^3.0.0-0",
 		"nuxt": "^2.0.0"
 	},
-	"description": "BLACKOUT website",
+	"description": "BLACKOUTS website",
 	"devDependencies": {
 		"@nuxt/typescript-build": "^0.6.0",
 		"@nuxtjs/stylelint-module": "^3.1.0",
