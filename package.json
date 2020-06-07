@@ -1,7 +1,7 @@
 {
 	"author": "Jonah Snider",
 	"dependencies": {
-		"@nuxt/typescript-runtime": "0.4.8",
+		"@nuxt/typescript-runtime": "0.4.9",
 		"@nuxtjs/pwa": "3.0.0-beta.20",
 		"nuxt": "2.12.2"
 	},
