@@ -44,5 +44,8 @@ export default {
 		 ** You can extend webpack config here
 		 */
 		extend(config, context) {}
+	},
+	server: {
+		port: 4000
 	}
 };
