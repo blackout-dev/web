@@ -4300,13 +4300,13 @@ eslint-config-xo-typescript@^0.31.0:
   resolved "https://registry.yarnpkg.com/eslint-config-xo-typescript/-/eslint-config-xo-typescript-0.31.0.tgz#384b57f30732a5f2d374b5a6c466eee3b6b8db50"
   integrity sha512-zxfUdKscsdrZTI5Uz9ZqAAR+W6fuH+DiQnTRRJAwLZaKJemT3hzH0DtIxNhB9t5fxKMwZYNYw2lvW4aWrSMbag==
 
-eslint-config-xo-vue@3.1.14:
-  version "3.1.14"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo-vue/-/eslint-config-xo-vue-3.1.14.tgz#984bd49f30696c48d18ce91f761763c514a2f775"
-  integrity sha512-X1Wo8Pq9J+wVYkssqDKcsZgGrUOsgDXIyKh/QJu1Nc2KZ9uAaI4yKBNXCo12p7FE0GI9jUXWkPh3GklMq2aNqQ==
+eslint-config-xo-vue@3.1.15:
+  version "3.1.15"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo-vue/-/eslint-config-xo-vue-3.1.15.tgz#b59adfaabd5e23e05b165f8be43dce33600889c6"
+  integrity sha512-SXnQ6mfwP1Mmk07rLwWICVyifQsTBZWvhXy8xFoaz4rBqB1EPnM3ILWYe45dqZt51q6DqhOQq4KsRlG2iK6IAg==
   dependencies:
     eslint-plugin-unicorn "^16.1.1"
-    snyk "^1.342.2"
+    snyk "^1.345.1"
     vue-eslint-parser "^7.1.0"
 
 eslint-config-xo@^0.30.0:
@@ -10163,10 +10163,10 @@ snyk-try-require@1.3.1, snyk-try-require@^1.1.1, snyk-try-require@^1.3.1:
     lru-cache "^4.0.0"
     then-fs "^2.0.0"
 
-snyk@^1.342.2:
-  version "1.345.1"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.345.1.tgz#f2b4466ce2fc33080502c452fced418d6856a5a1"
-  integrity sha512-kxCDbAmQdHApQiAdqYfNNBGsfO3YyYa85QO8SC8B8WpsjCkVJGidyp/b3BSJWYywyBfqA8eDsPCNEXhwAFPz1w==
+snyk@^1.345.1:
+  version "1.346.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.346.0.tgz#c94646a7ca109a329095419542df92d10df9709f"
+  integrity sha512-uwJDC0CRefppngm1J1M+Sja5CVfdmzLYkxGYp3ZYXrzvd912pgzrdYm8ciUL5a8x1/C+2L0iZ09W68daSuObhA==
   dependencies:
     "@snyk/cli-interface" "2.8.0"
     "@snyk/dep-graph" "1.18.3"
