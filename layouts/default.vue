@@ -1,52 +1,53 @@
 <template>
-	<div>
+	<div class="font-sans">
+		<Navbar />
 		<nuxt />
 	</div>
 </template>
 
-<style>
-html {
-	font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-	font-size: 16px;
-	word-spacing: 1px;
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-smoothing: antialiased;
-	box-sizing: border-box;
-}
+<script lang="ts">
+	import Vue from 'vue';
+	import Navbar from  '../components/Navbar.vue';
 
-*,
-*::before,
-*::after {
-	box-sizing: border-box;
-	margin: 0;
-}
+	export default Vue.extend({
+		components: {
+			Navbar,
+		},
+	});
+</script>
 
-.button--green {
-	display: inline-block;
-	border-radius: 4px;
-	border: 1px solid #3b8070;
-	color: #3b8070;
-	text-decoration: none;
-	padding: 10px 30px;
-}
+<style lang="scss">
+	html {
+		font-family: 'PT Sans'
+			system-ui,
+			-apple-system,
+			BlinkMacSystemFont,
+			'Segoe UI',
+			Roboto,
+			'Helvetica Neue',
+			Arial,
+			'Noto Sans',
+			sans-serif, 
+			'Apple Color Emoji',
+			'Segoe UI Emoji',
+			'Segoe UI Symbol',
+			'Noto Color Emoji';
+	}
 
-.button--green:hover {
-	color: #fff;
-	background-color: #3b8070;
-}
+	body {
+		color: $text-primary;
+		background: $dark-1;
+	}
 
-.button--grey {
-	display: inline-block;
-	border-radius: 4px;
-	border: 1px solid #35495e;
-	color: #35495e;
-	text-decoration: none;
-	padding: 10px 30px;
-	margin-left: 15px;
-}
+	h1, h2, h3, h4, h5, h6 {
+		color: $text-primary;
+	}
 
-.button--grey:hover {
-	color: #fff;
-	background-color: #35495e;
-}
+	p {
+		color: $text-secondary;
+	}
+
+	small {
+		color: $text-tetriary;
+	}
 </style>

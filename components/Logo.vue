@@ -1,34 +1,126 @@
 <template>
-	<svg class="NuxtLogo" width="245" height="180" viewBox="0 0 452 342" xmlns="http://www.w3.org/2000/svg">
-		<g fill="none" fill-rule="evenodd">
+	<!-- stylelint-disable -->
+	<svg
+		class="icon"
+		version="1.1"
+		viewBox="0 0 512 512"
+		xmlns="http://www.w3.org/2000/svg"
+		xmlns:cc="http://creativecommons.org/ns#"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	>
+		<metadata>
+			<rdf:RDF>
+				<cc:Work rdf:about="">
+					<dc:format>image/svg+xml</dc:format>
+					<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+					<dc:title />
+				</cc:Work>
+			</rdf:RDF>
+		</metadata>
+		<g transform="matrix(3.6008 0 0 3.6008 8262.6 953.28)" fill="#502000" stroke="#ff7f2a" stroke-linejoin="round" stroke-width="5">
 			<path
-				d="M139 330l-1-2c-2-4-2-8-1-13H29L189 31l67 121 22-16-67-121c-1-2-9-14-22-14-6 0-15 2-22 15L5 303c-1 3-8 16-2 27 4 6 10 12 24 12h136c-14 0-21-6-24-12z"
-				fill="#00C58E"
+				d="m-2260.5-235.42-26.762 22.889 36.949 31.6-36.949 31.6 26.762 22.889 36.949-31.6 36.949 31.6 26.762-22.889-36.949-31.6 36.949-31.6-8.9927-7.6912-17.769-15.197-36.949 31.6z"
+				color="#000000"
+				color-rendering="auto"
+				dominant-baseline="auto"
+				image-rendering="auto"
+				shape-rendering="auto"
+				solid-color="#000000"
+				stop-color="#000000"
+				style="
+					font-feature-settings: normal;
+					font-variant-alternates: normal;
+					font-variant-caps: normal;
+					font-variant-east-asian: normal;
+					font-variant-ligatures: normal;
+					font-variant-numeric: normal;
+					font-variant-position: normal;
+					font-variation-settings: normal;
+					inline-size: 0;
+					isolation: auto;
+					mix-blend-mode: normal;
+					shape-margin: 0;
+					shape-padding: 0;
+					text-decoration-color: #000000;
+					text-decoration-line: none;
+					text-decoration-style: solid;
+					text-indent: 0;
+					text-orientation: mixed;
+					text-transform: none;
+					white-space: normal;
+				"
 			/>
 			<path
-				d="M447 304L317 70c-2-2-9-15-22-15-6 0-15 3-22 15l-17 28v54l39-67 129 230h-49a23 23 0 0 1-2 14l-1 1c-6 11-21 12-23 12h76c3 0 17-1 24-12 3-5 5-14-2-26z"
-				fill="#108775"
+				d="m-2273.9-249.41 100.66 86.089"
+				color="#000000"
+				color-rendering="auto"
+				dominant-baseline="auto"
+				image-rendering="auto"
+				shape-rendering="auto"
+				solid-color="#000000"
+				stop-color="#000000"
+				style="
+					font-feature-settings: normal;
+					font-variant-alternates: normal;
+					font-variant-caps: normal;
+					font-variant-east-asian: normal;
+					font-variant-ligatures: normal;
+					font-variant-numeric: normal;
+					font-variant-position: normal;
+					font-variation-settings: normal;
+					inline-size: 0;
+					isolation: auto;
+					mix-blend-mode: normal;
+					shape-margin: 0;
+					shape-padding: 0;
+					text-decoration-color: #000000;
+					text-decoration-line: none;
+					text-decoration-style: solid;
+					text-indent: 0;
+					text-orientation: mixed;
+					text-transform: none;
+					white-space: normal;
+				"
 			/>
+			<path d="m-2287.3-237.96v25.435l36.949 31.6v-25.435z" />
+			<path d="m-2159.8-237.96v25.435l-36.949 31.6v-25.435z" />
 			<path
-				d="M376 330v-1l1-2c1-4 2-8 1-12l-4-12-102-178-15-27h-1l-15 27-102 178-4 12a24 24 0 0 0 2 15c4 6 10 12 24 12h190c3 0 18-1 25-12zM256 152l93 163H163l93-163z"
-				fill="#2F495E"
-				fill-rule="nonzero"
+				d="m-2260.5-260.85-26.762 22.889 36.949 31.6-36.949 31.6 26.762 22.889 36.949-31.6 36.949 31.6 26.762-22.889-36.949-31.6 36.949-31.6-26.762-22.889-36.949 31.6z"
+				color="#000000"
+				color-rendering="auto"
+				dominant-baseline="auto"
+				image-rendering="auto"
+				shape-rendering="auto"
+				solid-color="#000000"
+				stop-color="#000000"
+				style="
+					font-feature-settings: normal;
+					font-variant-alternates: normal;
+					font-variant-caps: normal;
+					font-variant-east-asian: normal;
+					font-variant-ligatures: normal;
+					font-variant-numeric: normal;
+					font-variant-position: normal;
+					font-variation-settings: normal;
+					inline-size: 0;
+					isolation: auto;
+					mix-blend-mode: normal;
+					shape-margin: 0;
+					shape-padding: 0;
+					text-decoration-color: #000000;
+					text-decoration-line: none;
+					text-decoration-style: solid;
+					text-indent: 0;
+					text-orientation: mixed;
+					text-transform: none;
+					white-space: normal;
+				"
 			/>
+			<path d="m-2186.6-126.44v-25.435l26.762-22.889v25.435z" />
+			<path d="m-2186.6-126.44v-25.435l-36.949-31.6v25.435z" />
+			<path d="m-2260.5-151.87v25.435l36.949-31.6v-25.435z" />
+			<path d="m-2287.3-174.76 26.762 22.889v25.435l-26.762-22.889z" />
 		</g>
 	</svg>
 </template>
-<style>
-.NuxtLogo {
-	animation: 1s appear;
-	margin: auto;
-}
-
-@keyframes appear {
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
-}
-</style>

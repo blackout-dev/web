@@ -15,7 +15,16 @@
 			"~/*": ["./*"],
 			"@/*": ["./*"]
 		},
-		"types": ["@types/node", "@nuxt/types"]
+		"types": [
+			"@types/node",
+			"@nuxt/types",
+			"@nuxtjs/vuetify",
+			"vuetify"
+		],
+		"typeRoots": [
+			"./node_modules/@types",
+			"./node_modules/vuetify/types"
+		]
 	},
 	"exclude": ["node_modules", ".nuxt", "dist"]
 }
