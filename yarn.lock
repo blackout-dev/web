@@ -9901,7 +9901,7 @@ postcss@7.0.28:
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-postcss@7.x.x, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.11, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.18, postcss@^7.0.2, postcss@^7.0.21, postcss@^7.0.26, postcss@^7.0.27, postcss@^7.0.30, postcss@^7.0.32, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
+postcss@7.x.x, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.11, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.18, postcss@^7.0.2, postcss@^7.0.21, postcss@^7.0.26, postcss@^7.0.27, postcss@^7.0.30, postcss@^7.0.31, postcss@^7.0.32, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
   version "7.0.32"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.32.tgz#4310d6ee347053da3433db2be492883d62cec59d"
   integrity sha512-03eXong5NLnNCD05xscnGKGDZ98CyzoqPSMjOe6SuoQY7Z2hIj0Ld1g/O/UQRuOle2aRtiIRDg9tDcTGAkLfKw==
@@ -11849,36 +11849,36 @@ stylelint-config-prettier@8.0.2:
   resolved "https://registry.yarnpkg.com/stylelint-config-prettier/-/stylelint-config-prettier-8.0.2.tgz#da9de33da4c56893cbe7e26df239a7374045e14e"
   integrity sha512-TN1l93iVTXpF9NJstlvP7nOu9zY2k+mN0NSFQ/VEGz15ZIP9ohdDZTtCWHs5LjctAhSAzaILULGbgiM0ItId3A==
 
-stylelint-config-xo-scss@0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/stylelint-config-xo-scss/-/stylelint-config-xo-scss-0.12.0.tgz#da13574049d63a7c016584a42008393eb6e9ae5c"
-  integrity sha512-jWhKMmY18ga03IIRZnxjHKH9ioKcgvZudNoHtVneDYZ4UxEPs0AVmHujxq9LsbbOhtdfq1z4QklLM9AXvpXwLQ==
+stylelint-config-xo-scss@0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/stylelint-config-xo-scss/-/stylelint-config-xo-scss-0.13.0.tgz#d714b760717892825e0788a1a3dd2a331592f750"
+  integrity sha512-bTicB369hfDjaMQJ42tV38lil2+WwR98AcL6e2Rqgs3hbHP5EPyEtjCw8bg+XP4o6GiOqERDE2DQLCT1lGD6Fg==
   dependencies:
-    stylelint-config-xo "^0.16.0"
+    stylelint-config-xo "^0.19.0"
     stylelint-scss "^3.13.0"
 
-stylelint-config-xo@^0.16.0:
-  version "0.16.1"
-  resolved "https://registry.yarnpkg.com/stylelint-config-xo/-/stylelint-config-xo-0.16.1.tgz#bb836b757e7db1c6051914bad6d8543607a5e961"
-  integrity sha512-gLJYd+VLJKvJl1CGV7pFrEs6W0nGWvmlf/SYL+nw2qzjSC/WFKIdDS1xJlJdG1wTesF6+Hov7g8q9T8FfxQmDg==
+stylelint-config-xo@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/stylelint-config-xo/-/stylelint-config-xo-0.19.0.tgz#2a4292c3c3fbb9e530664e1165500dd786929a16"
+  integrity sha512-X/dWOM1lytr2FPv9D1gOnZnUKEcuqbw3CqloM6A5plXo8gXJXHKk1mmjOLrW3jTQNr6YGn3xwP61IjdOTSmEiA==
   dependencies:
-    stylelint-declaration-block-no-ignored-properties "^2.2.0"
-    stylelint-order "^3.1.1"
+    stylelint-declaration-block-no-ignored-properties "^2.3.0"
+    stylelint-order "^4.1.0"
 
-stylelint-declaration-block-no-ignored-properties@^2.2.0:
+stylelint-declaration-block-no-ignored-properties@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/stylelint-declaration-block-no-ignored-properties/-/stylelint-declaration-block-no-ignored-properties-2.3.0.tgz#98a641a137bf057c97ef3d3c4a848cd339e736da"
   integrity sha512-0Ly/mKc3prAhxBSY5TbmMMDAkUHYMOxdmUu/mNcFvB6A53C24x5Rsu1Vtrik9bKPKwgd75sZUhV9ZsWerPbuJQ==
   dependencies:
     postcss "^7.0.27"
 
-stylelint-order@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/stylelint-order/-/stylelint-order-3.1.1.tgz#ba9ea6844d1482f97f31204e7c9605c7b792c294"
-  integrity sha512-4gP/r8j/6JGZ/LL41b2sYtQqfwZl4VSqTp7WeIwI67v/OXNQ08dnn64BGXNwAUSgb2+YIvIOxQaMzqMyQMzoyQ==
+stylelint-order@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/stylelint-order/-/stylelint-order-4.1.0.tgz#692d05b7d0c235ac66fcf5ea1d9e5f08a76747f6"
+  integrity sha512-sVTikaDvMqg2aJjh4r48jsdfmqLT+nqB1MOsaBnvM3OwLx4S+WXcsxsgk5w18h/OZoxZCxuyXMh61iBHcj9Qiw==
   dependencies:
     lodash "^4.17.15"
-    postcss "^7.0.17"
+    postcss "^7.0.31"
     postcss-sorting "^5.0.1"
 
 stylelint-scss@^3.13.0:
