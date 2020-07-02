@@ -8119,10 +8119,10 @@ media-typer@0.3.0:
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
 
-meilisearch@0.11.1:
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/meilisearch/-/meilisearch-0.11.1.tgz#729645be04778ef8d7cbd322fb9e1e74315e7ac6"
-  integrity sha512-y6+2+2qyt1aOCdKireDTXavTPuhyAeLdtiK0oyRxwRiWpaXgoCDzmjwpuHREqE3ekKJTy1RL7HE4saohNEPeeg==
+meilisearch@0.11.2:
+  version "0.11.2"
+  resolved "https://registry.yarnpkg.com/meilisearch/-/meilisearch-0.11.2.tgz#487580865be0102272d30766eb0b113fa0e45565"
+  integrity sha512-7sUWvN2gTDUShb26AIX6IsV4xmL7RtAfweqSrBxtgmKpJfiGc2IOvqqm8fU2O5QL4CPU/fMDkquqHwkRaGUUtg==
   dependencies:
     axios "^0.19.2"
 
