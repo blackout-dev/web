@@ -16,7 +16,7 @@
 		"@nuxtjs/style-resources": "1.0.0",
 		"@nuxtjs/stylelint-module": "4.0.0",
 		"eslint-config-prettier": "6.11.0",
-		"eslint-config-xo-vue": "3.1.20",
+		"eslint-config-xo-vue": "3.1.21",
 		"eslint-plugin-prettier": "3.1.4",
 		"eslint-plugin-vue": "6.2.2",
 		"node-sass": "4.14.1",
