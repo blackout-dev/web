@@ -3,7 +3,7 @@
 	"dependencies": {
 		"@nuxt/typescript-runtime": "1.0.0",
 		"@nuxtjs/pwa": "3.0.0-beta.20",
-		"@nuxtjs/tailwindcss": "2.1.0",
+		"@nuxtjs/tailwindcss": "2.1.1",
 		"@types/lodash.debounce": "4.0.6",
 		"lodash.debounce": "4.0.8",
 		"meilisearch": "0.11.3",
