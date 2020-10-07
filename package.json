@@ -24,7 +24,7 @@
 		"sass-loader": "9.0.2",
 		"stylelint": "13.7.2",
 		"stylelint-config-prettier": "8.0.2",
-		"stylelint-config-xo-scss": "0.13.0",
+		"stylelint-config-xo-scss": "0.14.0",
 		"xo": "0.33.0"
 	},
 	"name": "web",
