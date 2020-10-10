@@ -2,7 +2,7 @@
 	"author": "Jonah Snider",
 	"dependencies": {
 		"@nuxt/typescript-runtime": "1.0.0",
-		"@nuxtjs/pwa": "3.0.0-beta.20",
+		"@nuxtjs/pwa": "3.0.2",
 		"@nuxtjs/tailwindcss": "2.1.1",
 		"@types/lodash.debounce": "4.0.6",
 		"lodash.debounce": "4.0.8",
