@@ -6,7 +6,7 @@
 		"@nuxtjs/tailwindcss": "2.1.1",
 		"@types/lodash.debounce": "4.0.6",
 		"lodash.debounce": "4.0.8",
-		"meilisearch": "0.12.0",
+		"meilisearch": "0.16.1",
 		"vue-material-design-icons": "4.8.0",
 		"nuxt": "2.14.0"
 	},
